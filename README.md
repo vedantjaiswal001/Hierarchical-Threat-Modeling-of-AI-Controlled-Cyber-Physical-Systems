@@ -387,8 +387,3 @@ Potential future improvements include:
 
 **Vedant Jaiswal**
 
----
-
-# License
-
-This project is intended for academic, research, and educational purposes.
